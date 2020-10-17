@@ -29,7 +29,7 @@ namespace Arena
         /// <summary>
         /// Konstruktor s jedním vstupním parametrem. Definuje počet stěn hrací kostky
         /// </summary>
-        /// <param name="aSidesQuantity">
+        /// <param name="sidesQuantity">
         /// Počet stěn hrací kostky
         /// </param>
         public Dice(byte sidesQuantity)
